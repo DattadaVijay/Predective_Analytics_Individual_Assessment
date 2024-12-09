@@ -1,0 +1,19 @@
+﻿Email,Public Title,Description,Other Title,Contains Geographic Markers,Update Frequency,Access Level
+leanne.cummings@niagaraparks.com,Niagara Parks Commission Commissioners,"This dataset contains the directory for the Commissioners of the Niagara Parks Commission.  It includes the position, member name, tenure, remuneration and location for each member.",The Commissioners,TRUE,As required,Open/Public
+leanne.cummings@niagaraparks.com,Executive Team,This dataset contains the names and positions of executive staff members.,Executive Team,FALSE,As required,Open/Public
+cburant@niagaraparks.com,Niagara Glen Trail Counter Data,This dataset contains the number of visitors to the Niagara Glen,,TRUE,Monthly,Open/Public
+jmanning@niagaraparks.com,Donations of trees to be planted on NPC lands as a memorial to individuals.,This dataset contains information on the donor and location of all memorial trees,,TRUE,Other,Restricted
+jmanning@niagaraparks.com,Donations of park benches to be placed on NPC lands as a memorial to individuals.,This dataset contains information on the donor and location of all memorial benches,,TRUE,Other,Restricted
+jmanning@niagaraparks.com,Bouldering,This dataset contains information on the permit holder for the purposes of  bouldering on outdoor climbing structures with natural hand holds and the use of boulders for body support These relate to Bouldering activities that take place in the Niagara Glen,,FALSE,Other,Restricted
+swood@niagaraparks.com,Annual Event and Programming Calendar,This dataset provides a full listing of events and programming held within NPC.,Event Calendar,TRUE,As Required,Open/Public
+lpingue@niagaraparks.com,Fee Schedule,"This dataset contains information regarding the fees charged by NPC for parking, admissions, golf, rentals, packages, etc.",Rates and Fees Schedule,FALSE,Annually,Open/Public
+cmcdougall@niagaraparks.com,Expense reimbursement for Commissioners and Senior Staff,This dataset includes details of expenses incurred by senior staff and Commissioners.,Expense Disclosure,FALSE,Quarterly,Open/Public
+lcummings@niagaraparks.com,Schedule of Meetings,This dataset includes the dates and locations of upcoming and previous Commission meetings.,Schedule of Commission meetings,TRUE,Annually,Open/Public
+hpaulino@niagaraparks.com,Open Bid Opportunities,This dataset includes a listing of all open bid opportunities.,Bid Opportunities,FALSE,As required,Open/Public
+mneubauer@niagaraparks.com,Attendance Statistics,This dataset includes historical attendance and forecasts.,Attendance Forecast,FALSE,Annually,Open/Public
+Jbradford@niagaraparks.com,Customer Survey,This dataset includes high level informaton about customer behaviour and demographics.,Customer data,FALSE,Annually,Open/Public
+jhill@niagaraparks.com,NPC's Collection of Artwork,This dataset contains a listing of art in the NPC art collection.,Art Work Database,FALSE,Other,Restricted
+jhll@niagaraparks.com,Historical Plaques placed on NPC property,List of plaque wording,,TRUE,Annually,Open/Public
+jhill@niagaraparks.com,Listing of Historic Sites on NPC property.,Staffed Public Historic Sites,,TRUE,Annually,Open/Public
+dmdonnell@niagaraparks.com,Prescribed burn activity  to encourage regenerative growth of native grasses and plants and control invasive plant species,"This data set contains names, locations and tactics required to successfully implement or burn program. ",,TRUE,As required,Restricted
+dmcdonnell@niagaraparks.com,Waste Management,"This data set contains internal billing charges, tare weights and waste stream diversion data",,FALSE,Annually,Open/Public

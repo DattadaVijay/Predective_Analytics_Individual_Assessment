@@ -1,0 +1,17 @@
+from cryptography.fernet import Fernet
+import pandas as pd
+
+def load_key(filename='encryption_key.key'):
+    with open(filename, 'rb') as key_file:
+        return key_file.read()
+def decrypt_emails(df, key):
+    fernet = Fernet(key)
+    decrypted_emails = df['Email'].apply(lambda x: fernet.decrypt(x.encode()).decode())
+    df['Email'] = decrypted_emails
+    return df
+
+df_encrypted = pd.read_csv('encrypted_Office_Data.csv')
+
+key = load_key('encryption_key.key')
+df_decrypted = decrypt_emails(df_encrypted, key)
+print(df_decrypted)
